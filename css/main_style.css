@@ -1121,8 +1121,8 @@ p.typing-txt {
 
 #review .title {
     font-size: 40px;
-    margin-top: 94px;
-    margin-bottom: 50px;
+    padding-top: 94px;
+    padding-bottom: 50px;
 }
 
 #review .sub_title {
@@ -1527,4 +1527,5 @@ strong {
     text-align: center;
     font-size: 12px;
     padding-top: 5px;
+
 }
